@@ -1,0 +1,10 @@
+{
+    "commands": [
+        {
+            "name": "double blink",
+            "audio_path": "D:\\vivaan tasker\\SPIT\\sem 3\\sns_project\\double.wav",
+            "binary": "11111111 00000100 00010110 00010010 00010110 00010010"
+        }
+       
+    ]
+}
