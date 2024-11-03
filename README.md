@@ -14,3 +14,4 @@ Requirements to use the code
     1) Based on the microcontroller and its pins, modify the output pins in void setup() in the firmware_automation code
     2) In menu.py on lines 10, 78 and 95 and in co_relation.py on line 51, add file path to the json file as saved in your system
     3) Add new voice commands in your json file using the code provided
+    4) In security_gui.py, set the password as desired on line 18
